@@ -1,9 +1,0 @@
-
--> Sprite Group (regroup all units)
-
-	- Entity
-
-	- Tile
-
-
-
